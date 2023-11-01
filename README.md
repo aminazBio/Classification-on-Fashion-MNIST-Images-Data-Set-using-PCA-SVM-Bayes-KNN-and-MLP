@@ -14,4 +14,4 @@ Four models including support vector machines (SVM), Bayes, k-nearest neighbors 
 
 At last, 4 evaluation metrics: accuracy, precision, recall, and f1 score along with a confusion matrix were applyed on both training and test datasets and their obtained results were compared.  
 
-According to the predicted comparison, the MLP result was the most acceptable and credited result for this dataset, whereas others also are well-done models on their more related and consistent datasets.
+According to the predicted comparison, the MLP result was the most acceptable and credited one for this dataset, whereas others also are well-done models on their more related and consistent datasets.
